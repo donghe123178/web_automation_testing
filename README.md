@@ -1,0 +1,2 @@
+# web_automation_testing
+基于python+pytest+Selenium+allure,完成web自动化测试框架的搭建，并可以在jenkins上持续集成，应用于课堂派web自动化测试项目中，取得良好效果
