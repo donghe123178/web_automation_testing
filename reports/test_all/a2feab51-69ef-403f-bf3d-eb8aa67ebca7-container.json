@@ -1,0 +1,1 @@
+{"uuid": "2738e0d4-f0f2-46d3-9a69-31ce9ab4acfc", "children": ["42baa144-e0ef-4af1-909a-63d52683493b"], "befores": [{"name": "join_course", "status": "passed", "start": 1595077596027, "stop": 1595077597360}], "afters": [{"name": "join_course::0", "status": "passed", "start": 1595077619297, "stop": 1595077619297}], "start": 1595077596027, "stop": 1595077619297}

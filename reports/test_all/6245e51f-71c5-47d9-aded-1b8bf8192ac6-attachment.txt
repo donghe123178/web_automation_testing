@@ -1,0 +1,8 @@
+[31m[1mERROR   [0m root:base_page.py:32 元素定位失败：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="new-tj1"]"}
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=71.0.3578.137 (86ee722808adfe9e3c92e6e8ea746ade08423c7e),platform=Windows NT 10.0.18363 x86_64)
+
+[31m[1mERROR   [0m root:homework_page.py:56 点击更新提交失败：'NoneType' object has no attribute 'click'
+[31m[1mERROR   [0m root:base_page.py:65 元素定位失败：Message: 
+
+[31m[1mERROR   [0m root:homework_page.py:73 点击更新提交失败：'NoneType' object has no attribute 'click'
