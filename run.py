@@ -6,7 +6,7 @@ import os
 import pytest
 from config.config import REPORTS_PATH
 
-REPORT_FILE = os.path.join(REPORTS_PATH, "test_all.html")
+REPORT_FILE = os.path.join(REPORTS_PATH, "test_all")
 
 if __name__ == '__main__':
     # pytest.main(["-m smoke", f"--html={REPORT_FILE}"])
